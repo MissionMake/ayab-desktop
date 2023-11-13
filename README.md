@@ -46,7 +46,7 @@ rights for USB communication by adding your user to some groups.
 
 To install the development version you can checkout the git repository.
 
-    git clone https://github.com/AllYarnsAreBeautiful/ayab-desktop
+    git clone -b 1.0.0-dev https://github.com/AllYarnsAreBeautiful/ayab-desktop
     cd ayab-desktop
 
 Create a virtual environment for AYAB:
